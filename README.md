@@ -1,6 +1,6 @@
 # Pennysia AMM Backtest & Visualization Gallery
 
-[![CI](https://github.com/Pennysia/v1-backTest-2021-2024/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Pennysia/v1-backTest-2021-2024/actions/workflows/ci.yml)
+[![CI](https://github.com/Pennysia/backTest-2021-2024/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Pennysia/backTest-2021-2024/actions/workflows/ci.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.png)
 ![Python](https://img.shields.io/badge/Python-3.13-blue.png)
 
